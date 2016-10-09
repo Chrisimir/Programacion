@@ -1,6 +1,6 @@
 // Chris Lund Schober
 using System;
-public class login
+public class BreakLogin
 {
     public static void Main()
     {
@@ -8,10 +8,12 @@ public class login
         
         do
         {
-            Console.Write("Enter the password again: ");
+            Console.Write("Enter the password: ");
             pass = Convert.ToInt32( Console.ReadLine());
             if(pass == 1234)
                 break;
+            else
+                Console.WriteLine("Incorrect");
             }
         while(5 > 1);
         
