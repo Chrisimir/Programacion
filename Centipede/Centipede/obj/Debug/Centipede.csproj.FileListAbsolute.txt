@@ -1,0 +1,207 @@
+c:\users\ignacio iborra\documents\visual studio 2015\Projects\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\SDL.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\SDL_image.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\zlib1.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\obj\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\obj\Debug\Centipede.pdb
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\Centipede.exe.config
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\obj\Debug\Centipede.exe
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\obj\Debug\Centipede.pdb
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\SDL.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\SDL_image.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\zlib1.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\Centipede.exe
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\Centipede.pdb
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\libpng12-0.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\libpng12.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\imgs\character.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\imgs\credits.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\imgs\title.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\Centipede.exe.config
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\obj\Debug\Centipede.exe
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\obj\Debug\Centipede.pdb
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\imgs\character.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\imgs\credits.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\imgs\title.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\libpng12-0.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\libpng12.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\SDL.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\SDL_image.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\zlib1.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\Centipede.exe
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\Centipede.pdb
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\imgs\centipede0.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 3 - Moving and animating sprites\Centipede\Centipede\bin\Debug\imgs\fire.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\obj\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\obj\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\background.mid
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\fire.wav
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\imgs\centipede0.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\imgs\character.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\imgs\credits.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\imgs\fire.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\imgs\title.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\libpng12-0.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\libpng12.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\SDL.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\SDL_image.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\zlib1.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\DAYPBL__.ttf
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\bin\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 4 - Adding sound and texts\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\obj\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\obj\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\resources\background.mid
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\resources\fire.wav
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\character.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\credits.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\fire.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\title.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\libpng12-0.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\libpng12.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\SDL.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\SDL_image.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\zlib1.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\resources\DAYPBL__.ttf
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\centipede1.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\centipede_spritesheet.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\fire_spritesheet.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\centipede_head.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\resources\Centipede\Centipede\bin\Debug\imgs\centipede0.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\obj\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\obj\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\centipede0.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\centipede1.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\centipede_spritesheet.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\fire_spritesheet.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\resources\background.mid
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\resources\fire.wav
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\centipede_head.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\character.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\credits.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\fire.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\imgs\title.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\libpng12-0.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\libpng12.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\SDL.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\SDL_image.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\zlib1.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\resources\DAYPBL__.ttf
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\bin\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 5 - Animating sprites\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\obj\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\obj\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\imgs\centipede0.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\imgs\centipede_spritesheet.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\imgs\fire_spritesheet.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\imgs\obstacle.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\resources\background.mid
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\resources\fire.wav
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\imgs\centipede_head.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\imgs\character.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\imgs\credits.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\imgs\title.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\libpng12-0.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\libpng12.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\SDL.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\SDL_image.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\zlib1.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\resources\DAYPBL__.ttf
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\bin\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\resources\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\obj\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\obj\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\imgs\centipede0.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\imgs\centipede_spritesheet.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\imgs\fire_spritesheet.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\imgs\obstacle.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\resources\background.mid
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\resources\fire.wav
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\imgs\centipede_head.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\imgs\character.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\imgs\credits.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\imgs\title.png
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\libpng12-0.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\libpng12.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\SDL.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\SDL_image.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\zlib1.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\resources\DAYPBL__.ttf
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\bin\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 6 - Collision detection\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\Centipede.exe.config
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\obj\Debug\Centipede.exe
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\obj\Debug\Centipede.pdb
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\imgs\centipede0.png
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\imgs\centipede_spritesheet.png
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\imgs\fire_spritesheet.png
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\imgs\obstacle.png
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\resources\background.mid
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\resources\fire.wav
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\imgs\centipede_head.png
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\imgs\character.png
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\imgs\credits.png
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\imgs\title.png
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\libpng12-0.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\libpng12.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\SDL.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\SDL_image.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\zlib1.dll
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\resources\DAYPBL__.ttf
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\Centipede.exe
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\bin\Debug\Centipede.pdb
+C:\Users\j\Downloads\session06_resources\resources\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
