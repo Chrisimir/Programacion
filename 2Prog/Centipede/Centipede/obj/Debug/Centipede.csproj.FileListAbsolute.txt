@@ -1,0 +1,57 @@
+c:\users\ignacio iborra\documents\visual studio 2015\Projects\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\Centipede.exe.config
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\SDL.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\SDL_image.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\zlib1.dll
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\bin\Debug\Centipede.pdb
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\obj\Debug\Centipede.exe
+E:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 8\Centipede\Centipede\obj\Debug\Centipede.pdb
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\Centipede.exe.config
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\obj\Debug\Centipede.exe
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\obj\Debug\Centipede.pdb
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\SDL.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\SDL_image.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\zlib1.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\Centipede.exe
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\Centipede.pdb
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\libpng12-0.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\libpng12.dll
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\imgs\character.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\imgs\credits.png
+F:\IESSV Curso 16_17\Programacion 1DAMB\Centipede TaoSDL\Session 2 - Drawing images and basic game structure\Centipede\Centipede\bin\Debug\imgs\title.png
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\Centipede.exe.config
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\obj\Debug\Centipede.exe
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\obj\Debug\Centipede.pdb
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\imgs\centipede0.png
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\imgs\character.png
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\imgs\credits.png
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\imgs\fire.png
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\imgs\title.png
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\libfreetype-6.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\libpng12-0.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\libpng12.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\SDL.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\SDL_image.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\SDL_mixer.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\SDL_ttf.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\Tao.Sdl.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\zlib1.dll
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\Centipede.exe
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\Centipede.pdb
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\obj\Debug\Centipede.csprojResolveAssemblyReference.cache
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\CentipedeBlock.cs
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\Sounds\background.mid
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\Sounds\fire.wav
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\Fonts\DAYPBL__.ttf
+C:\Users\j\Documents\Visual Studio 2015\Projects\Centipede\Centipede\bin\Debug\Fonts\KOMIKAX_.ttf
